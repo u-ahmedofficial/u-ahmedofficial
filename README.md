@@ -11,7 +11,7 @@ Umair is a Security Researcher & Web Developer based in Pakistan who is acknowle
 [NetHarbour](https://github.com/u-ahmedofficial/NetHarbour)   
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=u-ahmedofficial&show_icons=true&count_private=true" alt="Muhaddi's GitHub stats" /> </p>
-
+<p align="center">
 <a href="https://twitter.com/u_ahmedofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muhaddimu" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/umairahmedofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhaddimu" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/13088574/umair-ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="muhaddis" height="20" width="20" /></a>
