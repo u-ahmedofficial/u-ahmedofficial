@@ -14,7 +14,7 @@
 
 <h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Security Researcher 📊</summary>
+<summary>Security Researcher 🐱‍💻📝</summary>
 <ul>
   <li><a href="https://github.com/u-ahmedofficial/AssetCrypt">AssetCrypt - Ransomeware</a></li>
   <li><a href="https://github.com/u-ahmedofficial/CaesarBrute">CaesarBrute - Encrypted chat Application</a></li>
@@ -25,7 +25,7 @@
 </ul>
 </details>
 <details>
-<summary>Full Stack Developer 🍥</summary>
+<summary>Full Stack Developer 💻🍥</summary>
   <ul>
     <li><a href="https://github.com/u-ahmedofficial/DetectFraud">DetectFraud - A ML-based Web Application for Bank Fraud Detection</a></li>
     <li><a href="https://github.com/u-ahmedofficial/JustChat">JustChat - A Mern stack chat application using SocketIO</a></li>
@@ -40,7 +40,7 @@
   </ul>
 </details>
 <details>
-<summary>Red Team Member @Synack 📝</summary>
+<summary>Red Team Member @Synack 🐱‍💻📝</summary>
   <ul>
     <li>You can get detailed information of my contributions <a href="https://synack.com">Synack</a>.</li>
     <li>Initial reconnaissance - open-source intelligence (OSINT) for collecting information on the target.</li>
@@ -83,7 +83,7 @@
   </ul>
 </details>
 <details>
-<summary>What do you do other than Development and Security? 💁‍♂️</summary>
+<summary>What do you do other than Development and Security? 💁‍♂ ₿ 💎🚀</summary>
   <ul>
     <li>I write blogs about powerful lessons in personal changes. You can visit my blog site at <a href="https://umairahmedofficial.com">umairahmedofficial.com</a>.</li>
     <li>I have recently started the youtube channel to share my knowledge.</li>
