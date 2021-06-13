@@ -3,7 +3,7 @@
 <h1>Hi Traveller, I am <a href="https://umairahmedofficial.com">Umair Ahmed</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/u-ahmedofficial/u-ahmedofficial/blob/master/my_image.jpeg" width="230" />
 
-<a href="https://www.linkedin.com/in/u-ahmedofficial"><img src="https://github.com/u-ahmedofficial/u-ahmedofficial/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/umairahmedofficial"><img src="https://github.com/u-ahmedofficial/u-ahmedofficial/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCI55UrqA6s37hGoXcfDRmqg"><img src="https://github.com/u-ahmedofficial/u-ahmedofficial/blob/master/logos/youtube-logo.png" width="40" /></a>
 <a href="https://www.patreon.com/u_ahmedofficial"><img src="https://github.com/u-ahmedofficial/u-ahmedofficial/blob/master/logos/patreon_logo.png" width="65" /></a>
 <a href="https://github.com/u-ahmedofficial"><img src="https://github.com/u-ahmedofficial/u-ahmedofficial/blob/master/logos/github-logo.png" width="40" /></a>
