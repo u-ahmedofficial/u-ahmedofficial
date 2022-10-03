@@ -33,7 +33,17 @@
   </ul>
 </details>
 <details>
-  <summary>Security Engineer at <a href="https://palmchip.com/">Palmchip</a> 🤖</summary>
+  <summary>Application Security Engineer at <a href="https://betterdata.ai/">Betterdata</a> 🤖</summary>
+  <ul>
+    <li>Design, develop, and implement security policy, procedures and Architecture for the organization, for deploying the applications Singapore Govt cloud in accordance with its compliance </li>
+    <li>Managing AWS, its deployments, and security (IAM, VPC, CloudTrail, CloudWatch, Lamdas)</li>
+    <li>Python FAST API development, code reviews, Security Assessments, and Penetration Testing for microservice-based applications</li>
+    <li>Collaborating with developers on patching bugs & vulnerabilities, helping in fixing the bugs, and writing closure reports</li>
+    <li>Design and integrate security CI/CD pipeline for ML Ops, develop automation to improve the process</li>
+  </ul>
+</details>
+<details>
+  <summary>PAST - Security Engineer at <a href="https://palmchip.com/">Palmchip</a> 🤖</summary>
   <ul>
     <li>Working on Dark-Web based threat intelligence and predictive modeling application in Cyber Security domain</li>
     <li>Technical Management, Server Administration, AWS Security, Automation and Penetration Testing.</li>
